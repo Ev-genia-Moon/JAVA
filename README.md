@@ -13,3 +13,7 @@
 ### 3. Работа по теме «Testability. Введение в ООП»
 
 3.1. [«Testability. Введение в ООП»](https://github.com/Ev-genia-Moon/Task3p2/tree/main)
+
+### 4. Работа по теме «Система сборки Maven, управление зависимостями, авто-тесты на JUnit5»
+
+4.1. [«Система сборки Maven»](https://github.com/Ev-genia-Moon/Task4Maven/tree/main)
