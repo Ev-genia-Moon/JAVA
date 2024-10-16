@@ -17,3 +17,7 @@
 ### 4. Работа по теме «Система сборки Maven, управление зависимостями, авто-тесты на JUnit5»
 
 4.1. [«Система сборки Maven»](https://github.com/Ev-genia-Moon/Task4Maven/tree/main)
+
+### 5. Работа по теме «Пакеты и циклы»
+
+5.1. [ «Пакеты и циклы»](https://github.com/Ev-genia-Moon/Task6Maven)
