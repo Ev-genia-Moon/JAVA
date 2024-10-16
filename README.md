@@ -21,3 +21,7 @@
 ### 5. Работа по теме «Пакеты и циклы»
 
 5.1. [ «Пакеты и циклы»](https://github.com/Ev-genia-Moon/Task6Maven)
+
+### 6. Работа по теме «Строки и массивы»
+
+6.1. [«Строки и массивы»](https://github.com/Ev-genia-Moon/Task7Maven)
